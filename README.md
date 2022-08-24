@@ -1,6 +1,6 @@
 # Trustpilot-Slider
 
-# CLEANCODED Shopify add Trustpilot reviews to slider
+# CLEANCODED Shopify Add Trustpilot Reviews to Slider
 
 Version: 1.0
 
@@ -12,7 +12,7 @@ This gem builds Rails applications that can be embedded in the Shopify Admin.
 
 ## Introduction
 
-This gem is used for importing Shopify add Trustpilot reviews to slider.
+This gem is used for importing Shopify Add Trustpilot Reviews to Slider.
 
 ## Requirements
 
